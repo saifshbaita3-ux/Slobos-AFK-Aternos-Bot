@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "saa_minecraft_jo.aternos.me",
+    "port":32826,
     "version": "1.19.1",
     "try-creative": false
   },
@@ -20,7 +20,9 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "saif2016"
+       
+       
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +33,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I,I,I'M SAIF 🧏"
-        
         "this server made by saifshbaita or dev_bonblox on YouTube!!!",
         "at5dak t3rf tqra"
        
